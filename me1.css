@@ -1,0 +1,38 @@
+
+
+*{
+
+	background-color: black;
+	
+
+
+
+
+}
+
+
+
+Header {
+
+
+	font-family: 'Dancing Script', cursive;
+font-size: 80px;
+color:  rgb(20,255,83);
+text-align: center;
+
+background-color: black;
+  width: 300px;
+  border: 10px solid yellow;
+  padding: 20px;
+  margin: 20px;
+}
+
+
+
+body{
+
+color: skyblue;
+size:  15px;
+
+
+}
